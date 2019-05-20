@@ -7,18 +7,11 @@ In this video, you’ll be exploring 3D plotting, one of the best features when 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Draw various kinds of plots using Matplotlib 
-<LI>Visualize and gain insights into a real-world dataset via different chart types 
-<LI>Use practical recipes to draw subplots, histograms, heat maps, box plots, and pie charts 
-<LI>Customize plots and charts for data visualizations in an appealing way 
-<LI>Build plots from the ground-up with scaffolding 
-<LI>Manipulate plot, axes, and figures 
-<LI>Build Matplotlib 3D graphs functionality to visualize data with multiple variables and dimensions 
-<LI>Use wire framing techniques and plot complex data with Matplotlib 3 
-<LI>Make your data visualizations animated and interactive 
-<LI>Use Matplotlib 3’s animation and interactive capabilities to spice up your data visualizations 
-<LI>Use real-world dataset of stocks to learn the techniques 
-<LI>Troubleshoot both common and tricky data visualizations while creating plots with Matplotlib 3 </LI></UL></DIV>
+<LI>[*]Deal with non-trivial and unusual plots
+<LI>[*]Customize and represent data in 3D 
+<LI>[*]Construct Non-Cartesian and vector plots
+<LI>[*]Design interactive plots using Jupyter Notebook
+<LI>[*]Make movies for enhanced data representation  </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
